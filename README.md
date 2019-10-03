@@ -17,3 +17,20 @@ Para cada transmissão foi adicionada uma variação da SNR *(Signal to Noise Ra
 
 Cada teste foi repetido 2 vezes para cada amostra de áudio. Os valores exibidos indicam a média de todos os testes executados.
 Para quantificar o nível da qualidade do sinal de voz recebido foi utilizado o algoritmo definido pela Recomendação da **[ITU - T P.862](https://www.itu.int/rec/T-REC-P.862)**. Além disso foi feito uma análise do BER *(Bit Error Rate)* para comparação.
+
+## Codificação do canal - *(FEC)*
+
+Foram definidos **8** configurações $(n, k)$ de códificação baseados nos códigos de Reed - Solomon com diferentes **taxas de código** *(code rate)*. A seguir é apresentado uma tabela que mostra os códigos **RS** utilizados com sua respectiva taxa de código:
+
+|Código $(n, k)$                |Taxa de código *(code rate)*
+|-------------------------------|-----------------------------|
+|	(255, 247)              |0.968                        |
+|	(255, 225)              |0.882                        |  
+|	(240, 200)              |0.833                        |  
+|	(255, 205)              |0.803                        |  
+|	(360, 280)              |0.777                        |  
+|	(255, 185)              |0.725                        |  
+|	(255, 165)              |0.647                        |    
+|	(400, 240)              |0.600                        |   
+
+> **Nota:**  a taxa de código de um código **FEC** é a proporção do fluxo de dados que é útil (não redundante). Em um código $n, k$ a taxa de código é equivalente a $k/n$. Para cada $k$ bits de informação útil, o codificador gera um total de $n$ bits de dados, dos quais $n - k$ são redundante

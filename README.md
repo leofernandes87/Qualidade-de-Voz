@@ -20,10 +20,10 @@ Para quantificar o nível da qualidade do sinal de voz recebido foi utilizado o 
 
 ## Codificação do canal - *(FEC)*
 
-Foram definidos **8** configurações $(n, k)$ de códificação baseados nos códigos de Reed - Solomon com diferentes **taxas de código** *(code rate)*. A seguir é apresentado uma tabela que mostra os códigos **RS** utilizados com sua respectiva taxa de código:
+Foram definidos **8** configurações <math>(n, k)<math> de códificação baseados nos códigos de Reed - Solomon com diferentes **taxas de código** *(code rate)*. A seguir é apresentado uma tabela que mostra os códigos **RS** utilizados com sua respectiva taxa de código:
 
-|Código $(n, k)$                |Taxa de código *(code rate)*
-|-------------------------------|-----------------------------|
+|Código *(n, k)*          |Taxa de código *(code rate)*
+|-------------------------|-----------------------------|
 |	(255, 247)              |0.968                        |
 |	(255, 225)              |0.882                        |  
 |	(240, 200)              |0.833                        |  
@@ -33,4 +33,4 @@ Foram definidos **8** configurações $(n, k)$ de códificação baseados nos c�
 |	(255, 165)              |0.647                        |    
 |	(400, 240)              |0.600                        |   
 
-> **Nota:**  a taxa de código de um código **FEC** é a proporção do fluxo de dados que é útil (não redundante). Em um código $n, k$ a taxa de código é equivalente a $k/n$. Para cada $k$ bits de informação útil, o codificador gera um total de $n$ bits de dados, dos quais $n - k$ são redundante
+> **Nota:**  a taxa de código de um código **FEC** é a proporção do fluxo de dados que é útil (não redundante). Em um código *n, k* a taxa de código é equivalente a *k/n*. Para cada *k* bits de informação útil, o codificador gera um total de *n* bits de dados, dos quais *n - k* são redundante

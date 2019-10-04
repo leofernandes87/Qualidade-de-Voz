@@ -37,14 +37,16 @@ Foram definidos **8** configurações <math>(n, k)<math> de códificação basea
 
 # Resultados
 
-Os resultados são exibidos individualmente para cada técnica de modulação.
+Os resultados são exibidos individualmente para cada técnica de modulação. 
+- o primeiro gráfico apresenta o impacto do uso de diferentes códigos **RS** na qualidade do sinal de voz considerando a avaliação do MOS determinado pelo algoritmo **ITU - T P.862**
+- o segundo  gráfico apresenta uma avaliação baseada na taxa de erros de *bit* utilizando os mesmos códigos **RS**.
+
+> **Nota:** os gráficos exibem apenas o intervalo considerado mais relevante para análise dos resultados.
 
 ## BPSK - *(Binary Phase Shift Keying)*
-
-O gráfico apresenta o impacto do uso de diferentes códigos **RS** na qualidade do sinal de voz usando a modulação BPSK:
 
 ![BPSK MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_mos_lineplot.svg)
 
 ![BPSK BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_ber_lineplot.svg)
 
-> **Nota:** os gráficos apresentados demonstram apenas o intervalo considerado mais relevante para análise dos resultados.
+## BPSK - *(Quadrature Phase Shift Keying)*

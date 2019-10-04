@@ -49,4 +49,8 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 
 ![BPSK BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_ber_lineplot.svg)
 
-## BPSK - *(Quadrature Phase Shift Keying)*
+## QPSK - *(Quadrature Phase Shift Keying)*
+
+![QPSK MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/QPSK_mos_lineplot.svg)
+
+![QPSK BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/QPSK_ber_lineplot.svg)

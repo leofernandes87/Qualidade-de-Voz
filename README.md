@@ -54,3 +54,22 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 ![QPSK MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/QPSK_mos_lineplot.svg)
 
 ![QPSK BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/QPSK_ber_lineplot.svg)
+
+## 16 - QAM *(Quadrature Amplitude Modulation)*
+
+![16QAM MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/16%20-%20QAM_mos_lineplot.svg)
+
+![16QAM BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/16%20-%20QAM_ber_lineplot.svg)
+
+
+## 64 - QAM *(Quadrature Amplitude Modulation)*
+
+![64QAM MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/64%20-%20QAM_mos_lineplot.svg)
+
+![64QAM BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/64%20-%20QAM_ber_lineplot.svg)
+
+## 256 - QAM *(Quadrature Amplitude Modulation)*
+
+![256QAM MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/256%20-%20QAM_mos_lineplot.svg)
+
+![256QAM BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/256%20-%20QAM_ber_lineplot.svg)

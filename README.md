@@ -73,3 +73,5 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 ![256QAM MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/256%20-%20QAM_mos_lineplot.svg)
 
 ![256QAM BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/256%20-%20QAM_ber_lineplot.svg)
+
+> **Nota:** Os arquivos originais gerados pelo simulador, bem como o *[script](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Resultados/script.ipynb)* usado para gerar os gráficos automaticamente se encontram na pasta **[Resultados](https://github.com/leofernandes87/Qualidade-de-Voz/tree/master/Resultados)**

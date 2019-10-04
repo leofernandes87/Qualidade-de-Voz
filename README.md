@@ -46,3 +46,5 @@ O gráfico apresenta o impacto do uso de diferentes códigos **RS** na qualidade
 ![BPSK MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_mos_lineplot.svg)
 
 ![BPSK BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_ber_lineplot.svg)
+
+> **Nota:** os gráficos apresentados demonstram apenas o intervalo considerado mais relevante para análise dos resultados.

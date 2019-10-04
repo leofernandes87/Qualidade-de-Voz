@@ -34,3 +34,13 @@ Foram definidos **8** configurações <math>(n, k)<math> de códificação basea
 |	(400, 240)              |0.600                        |   
 
 > **Nota:**  a taxa de código de um código **FEC** é a proporção do fluxo de dados que é útil (não redundante). Em um código *n, k* a taxa de código é equivalente a *k/n*. Para cada *k* bits de informação útil, o codificador gera um total de *n* bits de dados, dos quais *n - k* são redundante
+
+# Resultados
+
+Os resultados são exibidos individualmente para cada técnica de modulação.
+
+## BPSK - *(Binary Phase Shift Keying)*
+
+O gráfico apresenta o impacto do uso de diferentes códigos **RS** na qualidade do sinal de voz usando a modulação BPSK:
+
+![Image of Yaktocat](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_lineplot.svg)

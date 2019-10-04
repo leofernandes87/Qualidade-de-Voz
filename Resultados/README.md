@@ -1,7 +1,7 @@
 # Resultados
 
 Este folder contém todos os resultados gerados pelo simulador, organizados em pastas de acordo com cada técnica de modulação usada nos testes.
-O arquivo *script.ypnb* facilita o processo de criação dos gráficos. O ambiente *jupyter-notebook* é utilizado para permitir uma melhor visualização dos resultados.
+O arquivo *script.ipynb* facilita o processo de criação dos gráficos. O ambiente *jupyter-notebook* é utilizado para permitir uma melhor visualização dos resultados.
 
 ## Requisitos do ambiente do sistema:
 

@@ -43,4 +43,6 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 
 O gráfico apresenta o impacto do uso de diferentes códigos **RS** na qualidade do sinal de voz usando a modulação BPSK:
 
-![BPSK lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_lineplot.svg)
+![BPSK MOS lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_mos_lineplot.svg)
+
+![BPSK BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_ber_lineplot.svg)

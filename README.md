@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/leofernandes87/Qualidade-de-voz)
 # Análise de qualidade de voz em canal AWGN com codificador Reed - Solomon
 
 # Introdução

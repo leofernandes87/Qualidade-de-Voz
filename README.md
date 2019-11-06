@@ -110,7 +110,7 @@ No primeiro caso a avaliação e feita <strong>sem codificação do canal</stron
 </p>
 
 <p align="left">
-  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/snr_variation.svg">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_snr_variation_RS(255-247).svg">
 </p>
 
 <p align="left">

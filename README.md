@@ -75,4 +75,14 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 
 ![256QAM BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/256%20-%20QAM_ber_lineplot.svg)
 
+# Algoritmo Reed - Solomon adaptativo
+
+![SNR variation lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/snr_variation.svg)
+
+![SNR variation nocode lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_snr_variation_nocode.svg)
+
+![SNR variation RS255_247 lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_snr_variation_RS(255-247).svg)
+
+![SNR variation adaptative](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK%20RS_adaptative.svg)
+
 > **Nota:** Os arquivos originais gerados pelo simulador, bem como o *[script](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Resultados/script.ipynb)* usado para gerar os gráficos automaticamente se encontram na pasta **[Resultados](https://github.com/leofernandes87/Qualidade-de-Voz/tree/master/Resultados)**

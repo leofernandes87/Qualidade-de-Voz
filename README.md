@@ -91,12 +91,30 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 
 # Algoritmo Reed - Solomon adaptativo
 
-![SNR variation lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/snr_variation.svg)
+<p align="left">
+O seguinte gráfico exibe a variação dos valores de SNR em razão de um intervalo de tempo.
+Os valores de SNR foram gerados de forma aleatória, com uma distribuição uniforme, entre os valores de 2 a 14 dB considerando        uma transmissão utilizando a modulação <strong>BPSK</strong>. 
+</p>
 
-![SNR variation nocode lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_snr_variation_nocode.svg)
+<p align="left">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/snr_variation.svg">
+</p>
 
-![SNR variation RS255_247 lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_snr_variation_RS(255-247).svg)
+<p align="left">
+Os seguintes gráficos demostram a avaliação da qualidade de voz dentro do intervalo do intervalo de tempo exibido acima.
+No primeiro caso a avaliação e feita <strong>sem codificação do canal</strong>, no segundo caso a avaliação é feita utilizando o código <strong>RS (255, 247)</strong> e no último caso a avaliação é feita mediante uso da <strong>codificação adaptativa</strong> onde o melhor código RS é escolhido de acordo com a situação do canal no momento da transmissão.
+<p>
+  
+<p align="left">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK_snr_variation_nocode.svg">
+</p>
 
-![SNR variation adaptative](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK%20RS_adaptative.svg)
+<p align="left">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/snr_variation.svg">
+</p>
+
+<p align="left">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/BPSK%20RS_adaptative.svg">
+</p>
 
 > **Nota:** Os arquivos originais gerados pelo simulador, bem como o *[script](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Resultados/script.ipynb)* usado para gerar os gráficos automaticamente se encontram na pasta **[Resultados](https://github.com/leofernandes87/Qualidade-de-Voz/tree/master/Resultados)**

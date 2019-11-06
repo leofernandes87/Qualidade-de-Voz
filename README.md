@@ -14,6 +14,20 @@ Para realização dos testes foi utilizado um simulador implementado em MATLAB q
 
 > Para o QAM foram utilizadas as variações de 16 - QAM, 64 - QAM e 256 - QAM.
 
+<p align="center">
+  <strong>Codificador e decodificador de canal em um sistema de comunicação</strong>
+</p>
+
+<p align="center">
+  <img width="800" height="400" src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/modelo_transmissao.svg">
+</p>
+
+<p align="center">
+  Fonte: Adaptado de M. Viswanathan, “Wireless communication systems in matlab,”2013
+</p>
+
+
+
 Para cada transmissão foi adicionada uma variação da SNR *(Signal to Noise Ratio)* de **0**  a  **30 dB** com medições em intervalos de **1 dB**. Foram utilizadas **4** amostras de áudio, sendo 2 no idioma português e 2 em alemão. Para cada idioma foi utilizado um áudio com locução feminina e outra masculina. Cada amostra possui em média 8 segundos de duração. Os arquivos de áudio foram obtidos na  base de dados da **[ITU-T](https://www.itu.int/net/itu-t/sigdb/menu.aspx)**  (União Internacional de Telecomunicações).
 
 Cada teste foi repetido 2 vezes para cada amostra de áudio. Os valores exibidos indicam a média de todos os testes executados.

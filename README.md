@@ -14,6 +14,9 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 - [Overview](#overview)
 - [Cenário de simulação](#Cenário-de-simulação)
     - [Codificação do canal](#Codificação-do-canal)
+- [Resultados](#Resultados)
+- [Algoritmo Reed - Solomon adaptativo](#Algoritmo-Reed---Solomon-adaptativo)
+
 
       
 ## Cenário de simulação

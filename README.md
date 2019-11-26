@@ -13,7 +13,7 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 ## Índice
 - [Overview](#overview)
 - [Cenário de simulação](#Cenário-de-simulação)
-    - [Codificação do canal](#Codificação-do-canal)
+    - [Codificação do canal](#Codificação-do-canal---*(FEC)*)
 
       
 ## Cenário de simulação

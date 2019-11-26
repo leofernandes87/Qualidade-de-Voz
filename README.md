@@ -1,16 +1,16 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/leofernandes87/Qualidade-de-voz)
 
+# Análise de qualidade de voz em canal AWGN com codificador Reed - Solomon
+
+A seguir é apresentado o resultado de uma série de testes que permitiram análisar a eficácia de diferentes configurações dos códigos de Reed - Solomon, como método de correção de erros em transmissões de voz, em um modelo de canal sem fio.
+
 **Read this in other language:**
 <p float="left">
   <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80">
   <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/En_badge.svg" width="68">
 </p>
 
-# Análise de qualidade de voz em canal AWGN com codificador Reed - Solomon
-
-# Introdução
-
-A seguir é apresentado o resultado de uma série de testes que permitiram análisar a eficácia de diferentes configurações dos códigos de Reed - Solomon, como método de correção de erros em transmissões de voz, em um modelo de canal sem fio.
+## Índice
 
 # Metodologia
 

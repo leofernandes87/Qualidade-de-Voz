@@ -1,4 +1,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/leofernandes87/Qualidade-de-voz)
+
+<p float="left">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/En_badge.svg" width="68">
+</p>
+
 # Análise de qualidade de voz em canal AWGN com codificador Reed - Solomon
 
 # Introdução

@@ -11,8 +11,12 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 </p>
 
 ## Índice
+- [Overview](#overview)
+- [Cenário de simulação](#Metodologia)
+    - [Codificação do canal](#ignore-whitespace)
 
-# Metodologia
+      
+## Metodologia
 
 Para realização dos testes foi utilizado um simulador implementado em MATLAB quer permite simular a transmissão de uma comunicação de voz, utilizando um modelo de canal AWGN *(Aditive White Gaussian Noise)*.  Foram utilizadas as seguintes técnicas de modulação:
 - BPSK - *(Binary Phase Shift Keying)*
@@ -57,7 +61,7 @@ Foram definidos **8** configurações <math>(n, k)<math> de códificação basea
 
 > **Nota:**  a taxa de código de um código **FEC** é a proporção do fluxo de dados que é útil (não redundante). Em um código *n, k* a taxa de código é equivalente a *k/n*. Para cada *k* bits de informação útil, o codificador gera um total de *n* bits de dados, dos quais *n - k* são redundante
 
-# Resultados
+## Resultados
 
 Os resultados são exibidos individualmente para cada técnica de modulação. 
 - o primeiro gráfico apresenta o impacto do uso de diferentes códigos **RS** na qualidade do sinal de voz considerando a avaliação do MOS determinado pelo algoritmo **ITU - T P.862**
@@ -96,7 +100,7 @@ Os resultados são exibidos individualmente para cada técnica de modulação.
 
 ![256QAM BER lineplot](https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/256%20-%20QAM_ber_lineplot.svg)
 
-# Algoritmo Reed - Solomon adaptativo
+## Algoritmo Reed - Solomon adaptativo
 
 <p align="left">
 O seguinte gráfico exibe a variação dos valores de SNR em razão de um intervalo de tempo.

@@ -12,11 +12,11 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 
 ## Índice
 - [Overview](#overview)
-- [Cenário de simulação](#Metodologia)
-    - [Codificação do canal](#ignore-whitespace)
+- [Cenário de simulação](#cenario-de-simulação)
+    - [Codificação do canal](#Codificação-do-canal)
 
       
-## Metodologia
+## Cenário de simulação
 
 Para realização dos testes foi utilizado um simulador implementado em MATLAB quer permite simular a transmissão de uma comunicação de voz, utilizando um modelo de canal AWGN *(Aditive White Gaussian Noise)*.  Foram utilizadas as seguintes técnicas de modulação:
 - BPSK - *(Binary Phase Shift Keying)*

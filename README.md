@@ -13,7 +13,7 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 ## Índice
 - [Overview](#overview)
 - [Cenário de simulação](#Cenário-de-simulação)
-    - [Codificação do canal](#Codificação-do-canal---*(FEC)*)
+    - [Codificação do canal](#Codificação-do-canal)
 
       
 ## Cenário de simulação
@@ -44,7 +44,7 @@ Para cada transmissão foi adicionada uma variação da SNR *(Signal to Noise Ra
 Cada teste foi repetido 2 vezes para cada amostra de áudio. Os valores exibidos indicam a média de todos os testes executados.
 Para quantificar o nível da qualidade do sinal de voz recebido foi utilizado o algoritmo definido pela Recomendação da **[ITU - T P.862](https://www.itu.int/rec/T-REC-P.862)**. Além disso foi feito uma análise do BER *(Bit Error Rate)* para comparação.
 
-## Codificação do canal - *(FEC)*
+## Codificação do canal
 
 Foram definidos **8** configurações <math>(n, k)<math> de códificação baseados nos códigos de Reed - Solomon com diferentes **taxas de código** *(code rate)*. A seguir é apresentado uma tabela que mostra os códigos **RS** utilizados com sua respectiva taxa de código:
 

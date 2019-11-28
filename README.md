@@ -9,8 +9,10 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 <p float="left">
   <a href="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/README.md">
   <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80"></a>
-  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/En_badge.svg" width="68">
+  <a href="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/README.en.md">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/En_badge.svg" width="68"></a>
 </p>
+
 
 ## Índice
 

@@ -11,13 +11,19 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 </p>
 
 ## Índice
-- [Overview](#overview)
+- [Overview](#Overview)
 - [Cenário de simulação](#Cenário-de-simulação)
     - [Codificação do canal](#Codificação-do-canal)
 - [Resultados](#Resultados)
 - [Algoritmo Reed - Solomon adaptativo](#Algoritmo-Reed---Solomon-adaptativo)
 
+## Overview
 
+Um dos serviços mais utilizados atualmente é o serviço de voz sobre IP (VoIP), que permite que dados de voz sejam transmitidos pela rede utilizando protocolos de Internet. Este serviço se tornou uma boa alternativa ao tradicional serviço de telefonia analógica, pois tem um custo de ligação relativamente mais baixo.
+
+Porém o serviço de transmissão de voz, bem como outras formas de distribuição de mídias pela internet, como é o caso do streaming, são consideravelmente sensíveis a taxas elevadas de atraso ou perdas de pacote. Por isso tais aplicações necessitam de mecanismos especiais que sejam capazes de manter sua integridade sem a necessidade de retransmissão.
+
+Canais sem fio são muito mais suscetíveis a erros que redes cabeadas. Em transmissões baseadas em pacotes, dependendo da qualidade do canal, um pacote pode se perder durante a transmissão, ou chegar corrompido ao receptor. Para minimizar as degradações de transmissão, diferentes técnicas são implementadas no sistema de comunicação. Uma das técnicas mais relevantes é a codificação do canal ou Forward Error Correction (FEC), que insere bits redundantes em cada bloco de dados do conteúdo transmitido para detectar e corrigir erros de bit. Esta técnica ajuda a melhorar a qualidade da fala nos serviços de comunicação. Por outro lado a adição de bits redundantes pode aumentar consideravelmente os requisitos de largura de banda do canal. Além disso, a eficiência de um código de correção está diretamente relacionado às condições do canal.
       
 ## Cenário de simulação
 

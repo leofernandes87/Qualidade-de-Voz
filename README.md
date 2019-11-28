@@ -5,12 +5,15 @@
 A seguir é apresentado o resultado de uma série de testes que permitiram análisar a eficácia de diferentes configurações dos códigos de Reed - Solomon, como método de correção de erros em transmissões de voz, em um modelo de canal sem fio.
 
 **Read this in other language:**
+
 <p float="left">
-  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80"             href="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/README.md">
+  <a href="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/README.md">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80"></a>
   <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/En_badge.svg" width="68">
 </p>
 
 ## Índice
+
 - [Overview](#Overview)
 - [Cenário de simulação](#Cenário-de-simulação)
     - [Codificação do canal](#Codificação-do-canal)

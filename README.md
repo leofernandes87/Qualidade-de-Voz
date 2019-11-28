@@ -6,7 +6,7 @@ A seguir é apresentado o resultado de uma série de testes que permitiram anál
 
 **Read this in other language:**
 <p float="left">
-  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80">
+  <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/Pt-Br_badge.svg" width="80"             href="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/README.md">
   <img src="https://github.com/leofernandes87/Qualidade-de-Voz/blob/master/Imagens/En_badge.svg" width="68">
 </p>
 
